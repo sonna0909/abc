@@ -1,12 +1,14 @@
-[{"key":"alphabet","title":"Alphabet","spelling":"/ˈalfəˌbet/"},
-{"key":"number","title":"Number","spelling":"/ˈnəmbər/"},
-{"key":"color","title":"Color","spelling":"/ˈkələr/"},
-{"key":"fruits","title":"Fruits","spelling":""},
-{"key":"vegetable","title":"Vegetable","spelling":""},
-{"key":"food","title":"Food","spelling":""},
-{"key":"shape","title":"Shape","spelling":""},
-{"key":"animal","title":"Animal","spelling":""},
-{"key":"bodies","title":"Bodies","spelling":""},
-{"key":"clothers","title":"Clothers","spelling":""},
-{"key":"housing","title":"Housing","spelling":""},
-{"key":"vehicle","title":"Vehicle","spelling":""}]
+[
+    {"key":"alphabet","title":"Alphabet","spelling":"/ˈalfəˌbet/"},
+    {"key":"number","title":"Number","spelling":"/ˈnəmbər/"},
+    {"key":"fruit","title":"Fruit","spelling":"/fro͞ot/"},
+    {"key":"vegetable","title":"Vegetable","spelling":"/ˈvejtəb(ə)l,ˈvəjədəb(ə)l/"},
+    {"key":"food","title":"Food","spelling":"/fo͞od/"},
+    {"key":"color","title":"Color","spelling":"/ˈkələr/"},
+    {"key":"shape","title":"Shape","spelling":"/SHāp/"},
+    {"key":"animal","title":"Animal","spelling":"/ˈanəməl/"},
+    {"key":"body","title":"Body","spelling":"/ˈbädē/"},
+    {"key":"clothers","title":"Clothers","spelling":"/klō(T͟H)z/"},
+    {"key":"housing","title":"Housing","spelling":"/ˈhouziNG/"},
+    {"key":"vehicle","title":"Vehicle","spelling":"/ˈvēək(ə)l,ˈvēˌhik(ə)l/"}
+]
