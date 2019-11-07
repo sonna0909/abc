@@ -8,8 +8,7 @@
         "key": "One_years old",
         "title": "My son is one years old",
         "spelling": ""
-      },
-      
+      }
     ]
   },
   {
@@ -21,8 +20,7 @@
         "key": "Two_pens",
         "title": "I have two pens",
         "spelling": ""
-      },
-      
+      }
     ]
   },
   {
@@ -34,8 +32,7 @@
         "key": "Three_cat",
         "title": "I have three cat",
         "spelling": ""
-      },
-      
+      }
     ]
   },
   {
@@ -47,8 +44,7 @@
         "key": "Four_people",
         "title": "My family have four people",
         "spelling": ""
-      },
-      
+      }
     ]
   },
   {
@@ -60,8 +56,7 @@
         "key": "Five_Pencil",
         "title": "He has five Pencil",
         "spelling": ""
-      },
-      
+      }
     ]
   },
   {
@@ -73,8 +68,7 @@
         "key": "Six_books",
         "title": "I have six books",
         "spelling": ""
-      },
-      
+      }
     ]
   },
   {
@@ -86,8 +80,7 @@
         "key": "Seven_apples",
         "title": "I have seven apples",
         "spelling": ""
-      },
-      
+      }
     ]
   },
   {
@@ -99,8 +92,7 @@
         "key": "Eight_tables",
         "title": "There are eight tables in my class",
         "spelling": ""
-      },
-      
+      }
     ]
   },
   {
@@ -112,8 +104,7 @@
         "key": "Nine_friends",
         "title": "I have nine friends",
         "spelling": ""
-      },
-      
+      }
     ]
   },
   {
@@ -125,8 +116,7 @@
         "key": "Ten_oranges",
         "title": "She has ten oranges",
         "spelling": ""
-      },
-      
+      }
     ]
   }
 ]
