@@ -1,30 +1,30 @@
 [
   {
-    "key": "Lettuce",
-    "title": "lettuce",
+    "key": "lettuce",
+    "title": "Lettuce",
     "spelling": "/ˈlet.ɪs/",
     "subs": [
       {
-        "key": "Lettuce1",
-        "title": "I hate eating lettuce1 ",
+        "key": "lettuce1",
+        "title": "I hate eating lettuce",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Corn",
-    "title": "corn",
+    "key": "corn",
+    "title": "Corn",
     "spelling": "/kɔːn/",
     "subs": [
       {
         "key": "Corn1",
-        "title": "I usually eat corn1",
+        "title": "I usually eat corn",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Tomato",
+    "key": "tomato",
     "title": "Tomato",
     "spelling": "/təˈmɑː.təʊ/",
     "subs": [
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "key": "Potato",
+    "key": "potato",
     "title": "Potato",
     "spelling": "/pəˈteɪ.təʊ/",
     "subs": [
@@ -53,194 +53,194 @@
     "spelling": "/ˈkæb.ɪdʒ/",
     "subs": [
       {
-        "key": "Cabbage1",
-        "title": "I like eating cabbage1",
+        "key": "cabbage1",
+        "title": "I like eating cabbage",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Mushroom",
+    "key": "mushroom",
     "title": "Mushroom",
     "spelling": "/ˈmʌʃ.ruːm/",
     "subs": [
       {
-        "key": "Mushroom1",
-        "title": "He hates eating mushroom1",
+        "key": "mushroom1",
+        "title": "He hates eating mushroom",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Onion",
+    "key": "onion",
     "title": "Onion ",
     "spelling": "/ˈʌn.jən/",
     "subs": [
       {
-        "key": "Onion1",
-        "title": "I don't like onion1",
+        "key": "onion1",
+        "title": "I don't like onion",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Yam",
+    "key": "yam",
     "title": "Yam",
     "spelling": "/jæm/",
     "subs": [
       {
-        "key": "Yam1",
-        "title": "He likes Yam1",
+        "key": "yam1",
+        "title": "He likes yam",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Garlic",
+    "key": "garlic",
     "title": "Garlic",
     "spelling": "/ˈgɑː.lɪk/",
     "subs": [
       {
-        "key": "Garlic1",
-        "title": "My son hates garlic1",
+        "key": "garlic1",
+        "title": "My son hates garlic",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Carrot",
+    "key": "carrot",
     "title": "Carrot",
     "spelling": "/ˈkær.ət/",
     "subs": [
       {
-        "key": "Carrot1",
-        "title": "Eating carrot1 is very good for healthy",
+        "key": "carrot1",
+        "title": "Eating carrot is very good for healthy",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Celery",
+    "key": "celery",
     "title": "Celery",
     "spelling": "/ˈsel.ər.i/",
     "subs": [
       {
-        "key": "Celery1",
-        "title": "I can't eat celery1",
+        "key": "celery1",
+        "title": "I can't eat celery",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Green-onion",
+    "key": "green-onion",
     "title": "Green onion",
     "spelling": "/griːn ˈʌn.jən/",
     "subs": [
       {
-        "key": "Green-onion1",
-        "title": "I hate eating green-onion1 ",
+        "key": "green-onion1",
+        "title": "I hate eating green-onion",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Broccoli",
+    "key": "broccoli",
     "title": "Broccoli",
     "spelling": "/ˈbrɒk.əl.i/",
     "subs": [
       {
-        "key": "Broccoli1",
-        "title": "My son likes eating Broccoli1",
+        "key": "broccoli1",
+        "title": "My son likes eating broccoli",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Cauliflower",
+    "key": "cauliflower",
     "title": "Cauliflower",
     "spelling": "/ˈkɒl.ɪˌflaʊ.əʳ/",
     "subs": [
       {
-        "key": "Cauliflower1",
-        "title": "He likes cauliflower1 ",
+        "key": "cauliflower1",
+        "title": "He likes cauliflower",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Salad",
+    "key": "salad",
     "title": "Salad",
     "spelling": "/ˈsæl.əd/",
     "subs": [
       {
         "key": "salad1",
-        "title": "They usually eat salad1",
+        "title": "They usually eat salad",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Pepper",
+    "key": "pepper",
     "title": "Pepper",
     "spelling": "/ˈpep.əʳ/",
     "subs": [
       {
-        "key": "Pepper",
+        "key": "pepper1",
         "title": "I don't can eat pepper",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Bell-pepper",
+    "key": "bell-pepper",
     "title": "Bell-pepper",
     "spelling": "/bel ˈpep.əʳ/",
     "subs": [
       {
-        "key": "Bell-pepper1",
-        "title": "I hate pepper1",
+        "key": "bell-pepper1",
+        "title": "I hate bell-pepper",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Bean",
+    "key": "bean",
     "title": "Bean",
     "spelling": "/biːn/",
     "subs": [
       {
-        "key": "Bean1",
-        "title": "My son likes eating bean1",
+        "key": "bean1",
+        "title": "My son likes eating bean",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Pea",
+    "key": "pea",
     "title": "Pea",
     "spelling": "/piː/",
     "subs": [
       {
-        "key": "Pea1",
-        "title": "She hates pea1",
+        "key": "pea1",
+        "title": "She hates pea",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Pumpkin",
+    "key": "pumpkin",
     "title": "Pumpkin",
     "spelling": "/ˈpʌmp.kɪn/",
     "subs": [
       {
-        "key": "Pumpkin1",
+        "key": "pumpkin1",
         "title": "Pumpkin is very good for children’s health",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Beet",
+    "key": "beet",
     "title": "Beet",
     "spelling": "/biːt/",
     "subs": [
@@ -252,109 +252,109 @@
     ]
   },
   {
-    "key": "Radish",
+    "key": "radish",
     "title": "Radish",
     "spelling": "/ˈræd.ɪʃ/",
     "subs": [
       {
-        "key": "Radish1",
-        "title": "I like eating radish1",
+        "key": "radish1",
+        "title": "I like eating radish",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Artichoke",
+    "key": "artichoke",
     "title": "Artichoke",
     "spelling": "/ˈɑː.tɪ.tʃəʊk/",
     "subs": [
       {
-        "key": "Artichoke1",
-        "title": "Artichoke1 is very good for health",
+        "key": "artichoke1",
+        "title": "Artichoke is very good for health",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Eggplant",
+    "key": "eggplant",
     "title": "Eggplant",
     "spelling": "/ˈeg.plɑːnt/",
     "subs": [
       {
-        "key": "Eggplant1",
-        "title": "I don't like eat eggplant1",
+        "key": "eggplant1",
+        "title": "I don't like eat eggplant",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Cucumber",
+    "key": "cucumber",
     "title": "Cucumber",
     "spelling": "/ˈkjuː.kʌm.bəʳ/",
     "subs": [
       {
-        "key": "Cucumber1",
-        "title": "He likes eating cucumber1",
+        "key": "cucumber1",
+        "title": "He likes eating cucumber",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Zucchini",
+    "key": "zucchini",
     "title": "Zucchini",
     "spelling": "/zʊˈkiː.ni/",
     "subs": [
       {
-        "key": "Zucchini",
+        "key": "zucchini1",
         "title": "My son likes zucchini",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Asparagus",
+    "key": "asparagus",
     "title": "Asparagus",
     "spelling": "/əˈspær.ə.gəs/",
     "subs": [
       {
-        "key": "Asparagus1",
-        "title": "She don't like eat asparagus1 ",
+        "key": "asparagus1",
+        "title": "She don't like eat asparagus",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Runner-bean",
+    "key": "runner-bean",
     "title": "Runner-bean",
     "spelling": "/ˌrʌn.ə ˈbiːn/",
     "subs": [
       {
-        "key": "Runner-bean1",
-        "title": "He likes runner bean1",
+        "key": "runner-bean1",
+        "title": "He likes runner bean",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Sprout",
+    "key": "sprout",
     "title": "Sprout",
     "spelling": "/spraʊt/",
     "subs": [
       {
-        "key": "Sprout1",
-        "title": "I like eating sprout1",
+        "key": "sprout1",
+        "title": "I like eating sprout",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Water-spinach",
+    "key": "water-spinach",
     "title": "Water-spinach",
     "spelling": "/ˈwɔː.tər ˈspɪn.ɪtʃ/",
     "subs": [
       {
-        "key": "Water-spinach1",
-        "title": "My son don't like water spinach1",
+        "key": "water-spinach1",
+        "title": "My son don't like water spinach",
         "spelling": ""
       }
     ]
