@@ -43,7 +43,7 @@
       },
       {
         "key": "an_orange1",
-        "title": "There is an orange1",
+        "title": "There is an orange",
         "spelling": ""
       },
       {
@@ -54,34 +54,34 @@
     ]
   },
   {
-    "key": "Banana",
+    "key": "banana",
     "title": "Banana",
     "spelling": "/bə’nɑ:nə/",
     "subs": [
       {
         "key": "a_Banana",
-        "title": "a Banana",
+        "title": "a banana",
         "spelling": ""
       },
       {
-        "key": "Bananas",
+        "key": "bananas",
         "title": "Bananas",
         "spelling": ""
       },
       {
         "key": "a_Banana1",
-        "title": "There is a Banana1",
+        "title": "There is a banana",
         "spelling": ""
       },
       {
         "key": "5_Bananas",
-        "title": "There are 5 Bananas",
+        "title": "There are 5 bananas",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Grape",
+    "key": "grape",
     "title": "Grape",
     "spelling": "/greɪp/",
     "subs": [
@@ -91,121 +91,121 @@
         "spelling": ""
       },
       {
-        "key": "Grapes",
+        "key": "grapes",
         "title": "Grapes",
         "spelling": ""
       },
       {
         "key": "a_Grape1",
-        "title": "There is a Grape1",
+        "title": "There is a grape",
         "spelling": ""
       },
       {
         "key": "3_Grapes",
-        "title": "There are 3 Grapes",
+        "title": "There are 3 grapes",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Grapefruit",
+    "key": "grapefruit",
     "title": "Grapefruit",
     "spelling": "/’greipfru:t/",
     "subs": [
       {
-        "key": "a_Grapefruit",
+        "key": "a_grapefruit",
         "title": "a Grapefruit",
         "spelling": ""
       },
       {
-        "key": "Grapefruits",
+        "key": "grapefruits",
         "title": "Grapefruits",
         "spelling": ""
       },
       {
-        "key": "a_Grapefruit1",
-        "title": "There is a Grapefruit1",
+        "key": "a_grapefruit1",
+        "title": "There is a grapefruit",
         "spelling": ""
       },
       {
-        "key": "2_Grapefruits",
-        "title": "There are 2 Grapefruits",
+        "key": "2_grapefruits",
+        "title": "There are 2 grapefruits",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Starfruit",
+    "key": "starfruit",
     "title": "Starfruit",
     "spelling": "/’stɑ:r.fru:t/",
     "subs": [
       {
-        "key": "a_Starfruit",
-        "title": "a Starfruit",
+        "key": "a_starfruit",
+        "title": "A starfruit",
         "spelling": ""
       },
       {
-        "key": "Starfruits",
+        "key": "starfruits",
         "title": "Starfruits",
         "spelling": ""
       },
       {
-        "key": "a_Starfruit1",
-        "title": "There is a Starfruit1",
+        "key": "a_starfruit1",
+        "title": "There is a starfruit",
         "spelling": ""
       },
       {
-        "key": "6_Starfruits",
-        "title": "There are 6 Starfruits",
+        "key": "6_starfruits",
+        "title": "There are 6 starfruits",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Mango",
+    "key": "mango",
     "title": "Mango",
     "spelling": "/´mæηgou/",
     "subs": [
       {
-        "key": "a_Mango",
+        "key": "a_mango",
         "title": "a Mango",
         "spelling": ""
       },
       {
-        "key": "Mangos",
+        "key": "mangos",
         "title": "Mangos",
         "spelling": ""
       },
       {
-        "key": "a_Mango1",
-        "title": "There is a Mango1",
+        "key": "a_mango1",
+        "title": "There is a mango",
         "spelling": ""
       },
       {
-        "key": "7_Mangos",
-        "title": "There are 7 Mangos",
+        "key": "7_mangos",
+        "title": "There are 7 mangos",
         "spelling": ""
       }
     ]
   },
   {
     "key": "ambarella",
-    "title": "ambarella",
+    "title": "Ambarella",
     "spelling": "/’æmbə’rælə/",
     "subs": [
       {
         "key": "an_ambarella",
-        "title": "an ambarella",
+        "title": "An ambarella",
         "spelling": ""
       },
       {
         "key": "ambarellas",
-        "title": "ambarellas",
+        "title": "Ambarellas",
         "spelling": ""
       },
       {
         "key": "an_ambarella1",
-        "title": "There is an ambarella1",
+        "title": "There is an ambarella",
         "spelling": ""
       },
       {
@@ -217,22 +217,22 @@
   },
   {
     "key": "apricot",
-    "title": "apricot",
+    "title": "Apricot",
     "spelling": "/ˈæ.prɪ.kɒt/",
     "subs": [
       {
         "key": "an_apricot",
-        "title": "an apricot",
+        "title": "An apricot",
         "spelling": ""
       },
       {
         "key": "apricots",
-        "title": "apricots",
+        "title": "Apricots",
         "spelling": ""
       },
       {
         "key": "an_apricot1",
-        "title": "There is an apricot1",
+        "title": "There is an apricot",
         "spelling": ""
       },
       {
@@ -244,22 +244,22 @@
   },
   {
     "key": "avocado",
-    "title": "avocado",
+    "title": "Avocado",
     "spelling": "/¸ævə´ka:dou/",
     "subs": [
       {
         "key": "an_avocado",
-        "title": "an avocado",
+        "title": "An avocado",
         "spelling": ""
       },
       {
         "key": "avocadoes",
-        "title": "avocadoes",
+        "title": "Avocadoes",
         "spelling": ""
       },
       {
         "key": "an_avocado1",
-        "title": "There is an avocado1",
+        "title": "There is an avocado",
         "spelling": ""
       },
       {
@@ -271,22 +271,22 @@
   },
   {
     "key": "berry",
-    "title": "berry",
+    "title": "Berry",
     "spelling": "/’beri/",
     "subs": [
       {
         "key": "a_berry",
-        "title": "a berry",
+        "title": "A berry",
         "spelling": ""
       },
       {
         "key": "berries",
-        "title": "berries",
+        "title": "Berries",
         "spelling": ""
       },
       {
         "key": "a_berry1",
-        "title": "There is a berry1",
+        "title": "There is a berry",
         "spelling": ""
       },
       {
@@ -298,22 +298,22 @@
   },
   {
     "key": "cherry",
-    "title": "cherry",
+    "title": "Cherry",
     "spelling": "/´tʃeri/",
     "subs": [
       {
         "key": "a_cherry",
-        "title": "a cherry",
+        "title": "A cherry",
         "spelling": ""
       },
       {
         "key": "cherries",
-        "title": "cherries",
+        "title": "Cherries",
         "spelling": ""
       },
       {
         "key": "a_cherry1",
-        "title": "There is a cherry1",
+        "title": "There is a cherry",
         "spelling": ""
       },
       {
@@ -325,22 +325,22 @@
   },
   {
     "key": "citron",
-    "title": "citron",
+    "title": "Citron",
     "spelling": "/´sitrən/",
     "subs": [
       {
         "key": "a_citron",
-        "title": "a citron",
+        "title": "A citron",
         "spelling": ""
       },
       {
         "key": "citrons",
-        "title": "citrons",
+        "title": "Citrons",
         "spelling": ""
       },
       {
         "key": "a_citron1",
-        "title": "There is a citron1",
+        "title": "There is a citron",
         "spelling": ""
       },
       {
@@ -352,22 +352,22 @@
   },
   {
     "key": "coconut",
-    "title": "coconut",
+    "title": "Coconut",
     "spelling": "/’koukənʌt/",
     "subs": [
       {
         "key": "a_coconut",
-        "title": "a coconut",
+        "title": "A coconut",
         "spelling": ""
       },
       {
         "key": "coconuts",
-        "title": "coconuts",
+        "title": "Coconuts",
         "spelling": ""
       },
       {
         "key": "a_coconut1",
-        "title": "There is a coconut1",
+        "title": "There is a coconut",
         "spelling": ""
       },
       {
@@ -379,22 +379,22 @@
   },
   {
     "key": "custard-apple",
-    "title": "custard-apple",
+    "title": "Custard-apple",
     "spelling": "/’kʌstəd,æpl/",
     "subs": [
       {
         "key": "a_custard-apple",
-        "title": "a custard-apple",
+        "title": "A custard-apple",
         "spelling": ""
       },
       {
         "key": "custard-apples",
-        "title": "custard-apples",
+        "title": "Custard-apples",
         "spelling": ""
       },
       {
         "key": "a_custard-apple1",
-        "title": "There is a custard-apple1",
+        "title": "There is a custard-apple",
         "spelling": ""
       },
       {
@@ -406,22 +406,22 @@
   },
   {
     "key": "date",
-    "title": "date",
+    "title": "Date",
     "spelling": "/deit/",
     "subs": [
       {
         "key": "a_date",
-        "title": "a date",
+        "title": "A date",
         "spelling": ""
       },
       {
         "key": "dates",
-        "title": "dates",
+        "title": "Dates",
         "spelling": ""
       },
       {
         "key": "a_date1",
-        "title": "There is a date1",
+        "title": "There is a date",
         "spelling": ""
       },
       {
@@ -433,22 +433,22 @@
   },
   {
     "key": "dracontomelon",
-    "title": "dracontomelon",
+    "title": "Dracontomelon",
     "spelling": "/ˈdrækʌntɒnmelən/",
     "subs": [
       {
         "key": "a_dracontomelon",
-        "title": "a dracontomelon",
+        "title": "A dracontomelon",
         "spelling": ""
       },
       {
         "key": "dracontomelons",
-        "title": "dracontomelons",
+        "title": "Dracontomelons",
         "spelling": ""
       },
       {
         "key": "a_dracontomelon1",
-        "title": "There is a dracontomelon1",
+        "title": "There is a dracontomelon",
         "spelling": ""
       },
       {
@@ -460,22 +460,22 @@
   },
   {
     "key": "durian",
-    "title": "durian",
+    "title": "Durian",
     "spelling": "/´duəriən/",
     "subs": [
       {
         "key": "a_durian",
-        "title": "a durian",
+        "title": "A durian",
         "spelling": ""
       },
       {
         "key": "durians",
-        "title": "durians",
+        "title": "Durians",
         "spelling": ""
       },
       {
         "key": "a_durian1",
-        "title": "There is a durian1",
+        "title": "There is a durian",
         "spelling": ""
       },
       {
@@ -487,22 +487,22 @@
   },
   {
     "key": "fig",
-    "title": "fig",
+    "title": "Fig",
     "spelling": "/fig/",
     "subs": [
       {
         "key": "a_fig",
-        "title": "a fig",
+        "title": "A fig",
         "spelling": ""
       },
       {
         "key": "figs",
-        "title": "figs",
+        "title": "Figs",
         "spelling": ""
       },
       {
         "key": "a_fig1",
-        "title": "There is a fig1",
+        "title": "There is a fig",
         "spelling": ""
       },
       {
@@ -514,22 +514,22 @@
   },
   {
     "key": "guava",
-    "title": "guava",
+    "title": "Guava",
     "spelling": "/´gwa:və/",
     "subs": [
       {
         "key": "a_guava",
-        "title": "a guava",
+        "title": "A guava",
         "spelling": ""
       },
       {
         "key": "guavas",
-        "title": "guavas",
+        "title": "Guavas",
         "spelling": ""
       },
       {
         "key": "a_guava1",
-        "title": "There is a guava1",
+        "title": "There is a guava",
         "spelling": ""
       },
       {
@@ -541,22 +541,22 @@
   },
   {
     "key": "kumquat",
-    "title": "kumquat",
+    "title": "Kumquat",
     "spelling": "/´’kʌmkwɔt/",
     "subs": [
       {
         "key": "a_kumquat",
-        "title": "a kumquat",
+        "title": "A kumquat",
         "spelling": ""
       },
       {
         "key": "kumquats",
-        "title": "kumquats",
+        "title": "Kumquats",
         "spelling": ""
       },
       {
         "key": "a_kumquat1",
-        "title": "There is a kumquat1",
+        "title": "There is a kumquat",
         "spelling": ""
       },
       {
@@ -568,22 +568,22 @@
   },
   {
     "key": "lime",
-    "title": "lime",
+    "title": "Lime",
     "spelling": "/laim/",
     "subs": [
       {
         "key": "a_lime",
-        "title": "a lime",
+        "title": "A lime",
         "spelling": ""
       },
       {
         "key": "limes",
-        "title": "limes",
+        "title": "Limes",
         "spelling": ""
       },
       {
         "key": "a_lime1",
-        "title": "There is a lime1",
+        "title": "There is a lime",
         "spelling": ""
       },
       {
@@ -595,22 +595,22 @@
   },
   {
     "key": "longan",
-    "title": "longan",
+    "title": "Longan",
     "spelling": "/lɔɳgən/",
     "subs": [
       {
         "key": "a_longan",
-        "title": "a longan",
+        "title": "A longan",
         "spelling": ""
       },
       {
         "key": "longans",
-        "title": "longans",
+        "title": "Longans",
         "spelling": ""
       },
       {
         "key": "a_longan1",
-        "title": "There is a longan1",
+        "title": "There is a longan",
         "spelling": ""
       },
       {
@@ -622,22 +622,22 @@
   },
   {
     "key": "lychee",
-    "title": "lychee",
+    "title": "Lychee",
     "spelling": "/’li:tʃi:/",
     "subs": [
       {
         "key": "a_lychee",
-        "title": "a lychee",
+        "title": "A lychee",
         "spelling": ""
       },
       {
         "key": "lychees",
-        "title": "lychees",
+        "title": "Lychees",
         "spelling": ""
       },
       {
         "key": "a_lychee1",
-        "title": "There is a lychee1",
+        "title": "There is a lychee",
         "spelling": ""
       },
       {
@@ -649,22 +649,22 @@
   },
   {
     "key": "peach",
-    "title": "peach",
+    "title": "Peach",
     "spelling": "/pitʃ/",
     "subs": [
       {
         "key": "a_peach",
-        "title": "a peach",
+        "title": "A peach",
         "spelling": ""
       },
       {
         "key": "peaches",
-        "title": "peaches",
+        "title": "Peaches",
         "spelling": ""
       },
       {
         "key": "a_peach1",
-        "title": "There is a peach1",
+        "title": "There is a peach",
         "spelling": ""
       },
       {
@@ -676,22 +676,22 @@
   },
   {
     "key": "pear",
-    "title": "pear",
+    "title": "Pear",
     "spelling": "/peə/",
     "subs": [
       {
         "key": "a_pear",
-        "title": "a pear",
+        "title": "A pear",
         "spelling": ""
       },
       {
         "key": "pears",
-        "title": "pears",
+        "title": "Pears",
         "spelling": ""
       },
       {
         "key": "a_pear2",
-        "title": "There is a pear2",
+        "title": "There is a pear",
         "spelling": ""
       },
       {
@@ -703,22 +703,22 @@
   },
   {
     "key": "persimmon",
-    "title": "persimmon",
+    "title": "Persimmon",
     "spelling": "/pə´simən/",
     "subs": [
       {
         "key": "a_persimmon",
-        "title": "a persimmon",
+        "title": "A persimmon",
         "spelling": ""
       },
       {
         "key": "persimmons",
-        "title": "persimmons",
+        "title": "Persimmons",
         "spelling": ""
       },
       {
         "key": "a_persimmon3",
-        "title": "There is a persimmon3",
+        "title": "There is a persimmon",
         "spelling": ""
       },
       {
@@ -730,22 +730,22 @@
   },
   {
     "key": "pineapple",
-    "title": "pineapple",
+    "title": "Pineapple",
     "spelling": "/pə´simən/",
     "subs": [
       {
         "key": "a_pineapple",
-        "title": "a pineapple",
+        "title": "A pineapple",
         "spelling": ""
       },
       {
         "key": "pineapples",
-        "title": "pineapples",
+        "title": "Pineapples",
         "spelling": ""
       },
       {
         "key": "a_pineapple2",
-        "title": "There is a pineapple2",
+        "title": "There is a pineapple",
         "spelling": ""
       },
       {
@@ -757,22 +757,22 @@
   },
   {
     "key": "pitaya",
-    "title": "pitaya",
+    "title": "Pitaya",
     "spelling": "/pɪˈtaɪ.ə/",
     "subs": [
       {
         "key": "a_pitaya",
-        "title": "a pitaya",
+        "title": "A pitaya",
         "spelling": ""
       },
       {
         "key": "pitayas",
-        "title": "pitayas",
+        "title": "Pitayas",
         "spelling": ""
       },
       {
         "key": "a_pitaya2",
-        "title": "There is a pitaya2",
+        "title": "There is a pitaya",
         "spelling": ""
       },
       {
@@ -784,22 +784,22 @@
   },
   {
     "key": "plum",
-    "title": "plum",
+    "title": "Plum",
     "spelling": "/plʌm/",
     "subs": [
       {
         "key": "a_plum",
-        "title": "a plum",
+        "title": "A plum",
         "spelling": ""
       },
       {
         "key": "plums",
-        "title": "plums",
+        "title": "Plums",
         "spelling": ""
       },
       {
         "key": "a_plum2",
-        "title": "There is a plum2",
+        "title": "There is a plum",
         "spelling": ""
       },
       {
@@ -811,22 +811,22 @@
   },
   {
     "key": "pomegranate",
-    "title": "pomegranate",
+    "title": "Pomegranate",
     "spelling": "/´pɔm¸grænit/",
     "subs": [
       {
         "key": "a_pomegranate",
-        "title": "a pomegranate",
+        "title": "A pomegranate",
         "spelling": ""
       },
       {
         "key": "pomegranates",
-        "title": "pomegranates",
+        "title": "Pomegranates",
         "spelling": ""
       },
       {
         "key": "a_pomegranate1",
-        "title": "There is a pomegranate1",
+        "title": "There is a pomegranate",
         "spelling": ""
       },
       {
@@ -838,22 +838,22 @@
   },
   {
     "key": "pomelo",
-    "title": "pomelo",
+    "title": "Pomelo",
     "spelling": "/ˈpɒmələʊ/",
     "subs": [
       {
         "key": "a_pomelo",
-        "title": "a pomelo",
+        "title": "A pomelo",
         "spelling": ""
       },
       {
         "key": "pomeloes",
-        "title": "pomeloes",
+        "title": "Pomeloes",
         "spelling": ""
       },
       {
         "key": "a_pomelo2",
-        "title": "There is a pomelo2",
+        "title": "There is a pomelo",
         "spelling": ""
       },
       {
@@ -865,22 +865,22 @@
   },
   {
     "key": "rambutan",
-    "title": "rambutan",
+    "title": "Rambutan",
     "spelling": "/ræmˈbuːtən/",
     "subs": [
       {
         "key": "a_rambutan",
-        "title": "a rambutan",
+        "title": "A rambutan",
         "spelling": ""
       },
       {
         "key": "rambutans",
-        "title": "rambutans",
+        "title": "Rambutans",
         "spelling": ""
       },
       {
         "key": "a_rambutan2",
-        "title": "There is a rambutan2",
+        "title": "There is a rambutan",
         "spelling": ""
       },
       {
@@ -892,22 +892,22 @@
   },
   {
     "key": "sapota",
-    "title": "sapota",
+    "title": "Sapota",
     "spelling": "/sə’poutə/",
     "subs": [
       {
         "key": "a_sapota",
-        "title": "a sapota",
+        "title": "A sapota",
         "spelling": ""
       },
       {
         "key": "sapotas",
-        "title": "sapotas",
+        "title": "Sapotas",
         "spelling": ""
       },
       {
         "key": "a_sapota2",
-        "title": "There is a sapota2",
+        "title": "There is a sapota",
         "spelling": ""
       },
       {
@@ -919,22 +919,22 @@
   },
   {
     "key": "soursop",
-    "title": "soursop",
+    "title": "Soursop",
     "spelling": "/’sɔ:sɔp/",
     "subs": [
       {
         "key": "a_soursop",
-        "title": "a soursop",
+        "title": "A soursop",
         "spelling": ""
       },
       {
         "key": "soursops",
-        "title": "soursops",
+        "title": "Soursops",
         "spelling": ""
       },
       {
         "key": "a_soursop1",
-        "title": "There is a soursop1",
+        "title": "There is a soursop",
         "spelling": ""
       },
       {
@@ -946,22 +946,22 @@
   },
   {
     "key": "watermelon",
-    "title": "watermelon",
+    "title": "Watermelon",
     "spelling": "/’wɔ:tə´melən/",
     "subs": [
       {
         "key": "a_watermelon",
-        "title": "a soursop",
+        "title": "A watermelon",
         "spelling": ""
       },
       {
         "key": "watermelons",
-        "title": "watermelons",
+        "title": "Watermelons",
         "spelling": ""
       },
       {
         "key": "a_watermelon1",
-        "title": "There is a watermelon1",
+        "title": "There is a watermelon",
         "spelling": ""
       },
       {
@@ -972,40 +972,40 @@
     ]
   },
   {
-    "key": "Cantaloupe",
+    "key": "cantaloupe",
     "title": "Cantaloupe",
     "spelling": "/’kæntəlu:p/",
     "subs": [
       {
         "key": "a_Cantaloupe",
-        "title": "a Cantaloupe",
+        "title": "A cantaloupe",
         "spelling": ""
       },
       {
-        "key": "Cantaloupes",
+        "key": "cantaloupes",
         "title": "Cantaloupes",
         "spelling": ""
       },
       {
-        "key": "a_Cantaloupe2",
-        "title": "There is a Cantaloupe2",
+        "key": "a_cantaloupe2",
+        "title": "There is a cantaloupe",
         "spelling": ""
       },
       {
         "key": "36_Cantaloupes",
-        "title": "There are 36 Cantaloupes",
+        "title": "There are 36 cantaloupes",
         "spelling": ""
       }
     ]
   },
   {
-    "key": "Chestnut",
+    "key": "chestnut",
     "title": "Chestnut",
     "spelling": "/´tʃestnʌt/",
     "subs": [
       {
-        "key": "a_Chestnut",
-        "title": "a Chestnut",
+        "key": "a_chestnut",
+        "title": "A chestnut",
         "spelling": ""
       },
       {
@@ -1014,35 +1014,35 @@
         "spelling": ""
       },
       {
-        "key": "a_Chestnut1",
-        "title": "There is a Chestnut1",
+        "key": "a_chestnut1",
+        "title": "There is a chestnut",
         "spelling": ""
       },
       {
-        "key": "37_Chestnuts",
-        "title": "There are 37 Chestnuts",
+        "key": "37_chestnuts",
+        "title": "There are 37 chestnuts",
         "spelling": ""
       }
     ]
   },
   {
     "key": "tamarind",
-    "title": "tamarind",
+    "title": "Tamarind",
     "spelling": "/´tʃestnʌt/",
     "subs": [
       {
         "key": "a_tamarind",
-        "title": "a tamarind",
+        "title": "A tamarind",
         "spelling": ""
       },
       {
         "key": "tamarinds",
-        "title": "tamarinds",
+        "title": "Tamarinds",
         "spelling": ""
       },
       {
         "key": "a_tamarind3",
-        "title": "There is a tamarind3",
+        "title": "There is a tamarind",
         "spelling": ""
       },
       {
