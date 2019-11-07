@@ -1,8 +1,8 @@
 [
 {"key":"a","title":"A","spelling":"/eɪ/","subs":[
-	{"key":"a", "title":"Apple","spelling":"/.../"}]},
+	{"key":"a", "title":"Apple","spelling":"/ˈapəl/"}]},
 {"key":"b","title":"B","spelling":"/biː/","subs":[
-	{"key":"b", "title":"Ball","spelling":"/.../"}]},
+	{"key":"b", "title":"Ball","spelling":"/bôl/"}]},
 {"key":"c","title":"C","spelling":"/siː/","subs":[
 	{"key":"c", "title":"Cat","spelling":"/kæt/"}]},
 {"key":"d","title":"D","spelling":"/diː/","subs":[
