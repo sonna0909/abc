@@ -25,12 +25,12 @@
   },
   {
     "key": "blue",
-    "title": "Green",
-    "spelling": "/griːn/",
+    "title": "Blue",
+    "spelling": "/blo͞o/",
     "subs": [
       {
         "key": "blue1",
-        "title": "The leaf is green",
+        "title": "Blue sky",
         "spelling": ""
       }
     ]
@@ -145,7 +145,7 @@
   },
   {
     "key": "dark_green",
-    "title": "Dark_green",
+    "title": "Dark green",
     "spelling": "/dɑːk griːn/",
     "subs": [
       {
@@ -259,18 +259,6 @@
       {
         "key": "crimson1",
         "title": "My dress is crimson",
-        "spelling": ""
-      }
-    ]
-  },
-  {
-    "key": "magenta",
-    "title": "Magenta",
-    "spelling": "/məˈdʒen.tə/",
-    "subs": [
-      {
-        "key": "magenta1",
-        "title": "My lipstick is magenta",
         "spelling": ""
       }
     ]
