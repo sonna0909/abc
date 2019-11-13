@@ -1,6 +1,8 @@
 [
 {"key":"a","title":"A","spelling":"/eɪ/","subs":[
-	{"key":"apple", "title":"Apple","spelling":"/ˈapəl/"}]},
+	{"key":"apple", "title":"Apple","spelling":"/ˈapəl/"},
+	{"key":"an_apple", "title":"There is an apple","spelling":""}
+	{"key":"3_apple", "title":"There are three apples","spelling":""}]},
 {"key":"b","title":"B","spelling":"/biː/","subs":[
 	{"key":"ball", "title":"Ball","spelling":"/bôl/"}]},
 {"key":"c","title":"C","spelling":"/siː/","subs":[
