@@ -5,7 +5,7 @@
     "spelling": "/’æpl/",
     "subs": [
       {
-        "key": "an_apple",
+        "key": "apple",
         "title": "An apple",
         "spelling": ""
       },
@@ -15,13 +15,13 @@
         "spelling": ""
       },
       {
-        "key": "an_apple1",
-        "title": "There is an apple1",
+        "key": "apple",
+        "title": "There is an apple",
         "spelling": ""
       },
       {
-        "key": "4_apples",
-        "title": "There are 4 apples",
+        "key": "3_apples",
+        "title": "There are 3 apples",
         "spelling": ""
       }
     ]
